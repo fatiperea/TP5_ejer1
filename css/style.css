@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(61, 3, 116);
+    
+}
+section{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
